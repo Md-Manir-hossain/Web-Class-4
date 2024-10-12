@@ -1,0 +1,53 @@
+Tag = <> </> - সাধারনত আমরা এই চিহ্ন গুলোকে Smaller than and getter than মনে করি।
+আর এই চিহ্ন গুলোকে html এর ভাষায় Tag বলে।
+< Opening Tag > </Closing Tag> তবে কোনো কোনো ট্যাগে Opening Tag= <> থাকে না। 
+শুধু Closing Tag= </> থাকে।
+
+<html>
+<head>
+    <title> Facebook </title>
+</head>
+
+<body>
+
+</body>
+
+</html>
+
+[এটাই হচ্ছে html এর বেসিক Structure.]
+আমরা কোনো কিছু সেইভ করার জন্য বারবার- Ctrl+ S চাপতে হবে না। আমরা চাইলে File Menu 
+থেকে Auto Save option টি Enable করলেই যে কোনো লিখা Auto Save হয়ে যাবে।
+বারবার আর- Ctrl+ S চাপতে হবে না।
+
+[<h1> Heading </h1> 
+<h2> Heading </h2>
+<h3> Heading </h3>
+<h4> Heading </h4>
+<h5> Heading </h5>
+<h6> Heading </h6>]
+[উপরের <h1> </h1> - <h6> </h6> tag দ্বারা গঠিত সকল ট্যাগ কোনো লিখার হেডলাইন লেখার
+কাজে ব্যবহৃত হয়। যদি <h1> </h1> Tag টি ব্যবহার করা হয় তাহলে লেখা সবচেয়ে বেশি মোটা হবে এবং একটি 
+হেডলাইন এর মতো দেখতে লাগবে। এভাবে সবগুলো h tag use করলে দেখা যাবে একটু একটু করে 
+লিখা ছোট হবে এবং মোটা দেখাবে।]
+
+আরো কিছু ট্যাগ এর ব্যবহার যে ট্যাগগুলো একটি ওয়েবসাইট তৈরি করতে সবসময় কাজে লাগবে।
+তা নিম্নে দেওয়া হলো-
+[<B>		- (Bold Text) 
+<strong>	- (important Text)
+<i>			- (Italic Text)
+<em>		- (Emphasized Text)
+<mark>		- (Marked Text)
+<small>		- (Small Text)
+<del>		- (Deleted Text)
+<ins>		- (Inserted Text)
+<sub>		- (Subscript Text)
+<sup>		- (Superscript Text)
+<u>			- (Underline Text)]
+<img src="images/wallpaper.jpg" height="50" Width="45" alt="loading"/>
+
+
+<iframe> = অন্যের ওয়েবসাইট বা ভিডিও যখন আমরা আমাদের ওয়েবসাইটে
+আপলোড দিতে পারব।
+    <h1> Watch the Video.......</h1>
+    <iframe src="https://www.youtube.com/embed/o_0DXFj-fO4?si=TsKdgh-uSCnl6Rc2"width="460" height="315"></iframe>
+    <iframe src="https://www.youtube.com/embed/2jgkVWMNIq8?si=CwZWx8ra-v_xgk1j"width="560" height="315"></iframe>
